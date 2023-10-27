@@ -24,7 +24,7 @@ Após a análise inicial dos dados coletados, identificamos algumas tendências 
 
 # Autores do projeto
 
-Jhonatan Willian dos Santos Silva
+Jhonatan Willian dos Santos Silva, 
 Matheus Henrique Pedrozo Traiba
 
 # Para vizualizar o relatório inteiro, basta acessar:
